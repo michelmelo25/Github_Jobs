@@ -11,4 +11,4 @@ A interface construída deverá possibilitar todas as interações possíveis po
 
 
 
-Ao clonar o repositorio execute o codigo `npm install` para instalar as dependencias necessárias.
+Ao clonar o repositorio execute o codigo `npm install` ou `yarn install` para instalar as dependencias necessárias.
