@@ -1,0 +1,23 @@
+.grid-container {
+    width: 100vw;
+}  
+  
+  .nav {
+      color: white;
+      text-align: center;
+      display: block;
+      padding: 14px 16px 14px;
+      margin-left: 7px;
+      text-decoration: none;
+      border-right: 1px solid #bbb;
+  }
+
+  .nav:hover {
+    text-decoration: none;
+    color: grey;
+  } 
+
+  .nav.dir {
+      float: right;  
+  }
+
